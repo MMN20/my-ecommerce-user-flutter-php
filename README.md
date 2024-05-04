@@ -6,7 +6,7 @@
 
 
 
- ### An Ecommerce app that has all the functionalities:
+ ### An Ecommerce app that has all the necessary functionalities:
 
  - Product browsing and search
  - Shopping cart and checkout
