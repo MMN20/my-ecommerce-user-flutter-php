@@ -2,7 +2,7 @@
 
 #### This app is part 1/3, it is meants for the user, There are also the Delivery and the Admin apps in my Github account repositories 
 
-#### You must host the backend part (in PHP) and then link the API to this app by adding the link in the "/api_links.dart" file in this project.
+#### You must host the backend part (in PHP) and then link the API to this app by adding the link in the "lib/api_links.dart" file in this project.
 
 
 
