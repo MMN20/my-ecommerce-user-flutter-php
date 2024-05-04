@@ -19,7 +19,7 @@
 
  And more...
 
-  ### The app:
+  ### Inside the app:
 
  #### Home page
 
